@@ -1,0 +1,20 @@
+*Login
+ - Caixa de texto: 20x 235y. SF Pro Text Semibold 22
+
+*ChatCell
+ - Foto: 17x 11y; Tamanho: 56x56
+ - Nome: SF Pro Text Bold 18. 90x 11y
+ - Ultima mensagem: SF Pro Text Regular 16. 90x 53y. cor: (140, 140, 142)
+ - Hora da mensagem:SF Pro Text Regular 16. 327x 13y. cor: (0, 124, 254)
+ - Badge: 340x 37y
+ - Badge counter: SF Pro Text Regular 16. 349x 42y. cor: (255, 255, 255)
+
+*ChatWindows
+ - Foto: 39x 26y; Tamanho: 38x38
+ - Nome: SF Pro Text Bold 16. 86x 39y
+ 
+ - Primeira caixa de mensagem: 70y
+
+ - Fonte da mensagem: SF Pro Text Regular 17. Dist�ncia do topo do bal�o: 9px
+ - mensagem recebida: 26x
+ - mensagem enviada: 84x
